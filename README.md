@@ -1,0 +1,2 @@
+# GSP787-Insights-from-Data-with-BigQuery-Challenge-Lab
+The dataset and table that will be used for this analysis will be : bigquery-public-data.covid19_open_data.covid19_open_data. This repository contains country-level datasets of daily time-series data related to COVID-19 globally. It includes data relating to demographics, economy, epidemiology, geography, health, hospitalizations, mobility, government response, and weather.
